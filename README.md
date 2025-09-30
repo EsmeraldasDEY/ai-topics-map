@@ -8,6 +8,9 @@
 - **Probability & Statistics**: Bayes' Theorem, Distributions, Hypothesis Testing
 - **Information Theory**: Entropy, Mutual Information, KL Divergence
 - **Calculus**: Gradients, Optimization Theory
+- **Optimization Theory**: Convex Optimization, Lagrange Multipliers, Gradient Descent
+- **Graph Theory**: Graph Algorithms, Network Analysis (for GNNs)
+- **Numerical Methods**: Numerical Linear Algebra, Optimization Algorithms
 
 ### **Neural Network Fundamentals**
 - MLP, CNN, RNN/LSTM/GRU
@@ -40,11 +43,15 @@
 
 ## 🎯 **3. LEARNING METHODS**
 *Different approaches to training AI models*
+- **Supervised Learning**: Classification, Regression, Traditional ML
+- **Unsupervised Learning**: Clustering, Dimensionality Reduction, Anomaly Detection
+- **Reinforcement Learning**: DQN, PPO, A3C, SAC, Policy Gradient Methods
 - Self-Supervised Learning
 - Few-Shot / Zero-Shot Learning
-- Reinforcement Learning (DQN, PPO, A3C, SAC)
 - Meta-Learning, Federated Learning
 - Contrastive Learning, Self-Distillation
+- Active Learning (Query Strategies, Uncertainty Sampling)
+- Curriculum Learning (Difficulty Scheduling, Progressive Training)
 
 ## 👁 **4. APPLICATIONS**
 *Real-world use cases and domains*
@@ -58,6 +65,9 @@
 - **Recommendation Systems**: Collaborative Filtering, Personalization
 - **Robotics**: Motion Planning, Manipulation, Navigation
 - **Generative AI**: Text-to-Image, Text-to-Video, 3D Generation
+- **Agriculture AI**: Precision Farming, Crop Monitoring, Yield Prediction
+- **Energy AI**: Smart Grids, Renewable Energy Forecasting, Energy Optimization
+- **Government/Defense AI**: Surveillance Systems, Cyber Warfare, National Security
 
 ## ⚡ **5. ADVANCED TOPICS**
 *Cutting-edge research and specialized techniques*
@@ -78,6 +88,8 @@
 - Model Monitoring, A/B Testing
 - Feature Stores, Model Registry
 - CI/CD for ML, Model Versioning
+- **DataOps**: Data Management in ML Lifecycle, Data Pipeline Orchestration
+- **Monitoring**: Bias Detection, Drift Detection, Model Performance Tracking
 
 ### **Tools & Platforms**
 - **Orchestration**: MLflow, Kubeflow, Airflow, Prefect
@@ -151,6 +163,20 @@
 - **Robustness**: Adversarial Defense, Out-of-Distribution
 - **Fairness**: Bias Detection, Ethical AI
 - **Transparency**: Explainable AI, Interpretability
+
+### **🏗️ Foundation Models**
+- **Large Language Models**: GPT-4, Claude, LLaMA, PaLM
+- **Vision-Language Models**: CLIP, DALL-E, Flamingo, PaLM-E
+- **Multimodal Foundation Models**: GPT-4V, Gemini, Qwen-VL
+- **Code Foundation Models**: Codex, CodeT5, StarCoder, CodeLlama
+- **Scientific Foundation Models**: AlphaFold, ESM, Galactica
+
+### **🤖 Agentic AI**
+- **AI Agents**: Autonomous Agents, Multi-Agent Systems
+- **Tool Integration**: LangChain, AutoGPT, AgentGPT
+- **Reasoning & Planning**: Chain-of-Thought, Tree-of-Thought
+- **Memory Systems**: Long-term Memory, Episodic Memory
+- **Human-AI Collaboration**: AI Assistants, Copilots, Augmented Intelligence
 
 ---
 
